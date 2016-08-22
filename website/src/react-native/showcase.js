@@ -24,6 +24,14 @@ var React = require('React');
 var Site = require('Site');
 
 var featured = [
+   {
+    name: 'RENT IT BAE',
+    icon: 'https://rentitbae.s3.amazonaws.com/static/web-img/header-bg-logo.png',
+    linkAppStore: 'https://itunes.apple.com/in/app/rent-it-bae/id1119955315',
+    linkPlayStore: 'https://play.google.com/store/apps/details?id=com.rentitbae',
+    infoLink: 'http://blog.rentitbae.com/go-smart-go-rent-it-bae/',
+    infoTitle: 'RENT IT BAE is a place where fashion meets technology.',
+  },
   {
     name: 'Facebook',
     icon: 'https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w300',
